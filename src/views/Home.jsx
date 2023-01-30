@@ -7,7 +7,7 @@ function Home() {
         <div>
             <Container className="text-center">
                 <h1 className="p-5">
-                    Biendenido a <span className="fw-bold text-danger">Happy Cake</span> 
+                    Bienvenido a <span className="fw-bold text-danger">Happy Cake</span> 
                 </h1>
                 <h6 className="pb-4"> El lugar de los pasteles felices </h6>
                 {/* <h1>🥮</h1> */}
